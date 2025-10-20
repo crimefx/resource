@@ -4,7 +4,7 @@ game 'gta5'
 name 'crime-resource'
 author 'CRIME'
 description 'Resource description goes here.'
-repository 'https://github.com/crime/resource'
+repository 'https://github.com/crimefx/resource'
 version '1.0.0'
 
 dependencies {
